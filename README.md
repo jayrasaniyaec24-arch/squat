@@ -1,4 +1,5 @@
 # AI-Based Virtual Squat Assistant
+# made with my team.
 
 ## About the Project
 The AI-Based Virtual Squat Assistant is a real-time exercise assistant that uses computer vision to detect squat poses, count repetitions, and provide voice feedback to help users perform squats correctly.
