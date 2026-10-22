@@ -1,0 +1,1 @@
+[Open my file](squat.py)
